@@ -6,13 +6,12 @@
 
 **Location:** Portland, Oregon, USA
 
-**Description:** This is the reveal.js directory that contains the materials from 
-my talk.
+**Description:** Directory with presentation materials source code.
 
-##View presentation
+##View materials
 
-<PLACEHOLDER>
+http://devel.lulzbot.com/marketing/presentations/open-hardware-summit_2016/reveal.js/#/
 
 ##Watch presentation
 
-(https://vimeo.com/188581824)
+https://vimeo.com/188581824
